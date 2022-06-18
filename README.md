@@ -2,7 +2,7 @@
 
 I'm w1zzyl and I am interested in Android development. 
 
-You can contact with me via [Telegram](t.me/realw1zzyl). 
+You can contact with me via [Telegram](https://t.me/realw1zzyl). 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=w1zzyl&show_icons=true&count_private=true&custom_title=My%20Github%20Stats&theme=white&hide_border=false)
 
